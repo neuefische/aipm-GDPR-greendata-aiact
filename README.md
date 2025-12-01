@@ -3,9 +3,9 @@
 Practice core compliance and sustainability concepts in three small Jupyter notebooks.
 
 ## Contents
-- `01_GDPR_Principles.ipynb` : actors, lawful bases, Article 5 principles, rights, and code prompts for minimization, retention, and accountability.
-- `02_GreenData_Practices.ipynb` : carbon estimation, deduplication, lifecycle policy prompts, and efficiency heuristics.
-- `03_EU_AI_Act.ipynb` : risk ladder, high-risk checklist, scenario classification, and logging patterns for traceability.
+- [01_GDPR_Principles.ipynb](01_GDPR_Principles.ipynb) : actors, lawful bases, Article 5 principles, rights, and code prompts for minimization, retention, and accountability.
+- [02_GreenData_Practices.ipynb](02_GreenData_Practices.ipynb) : carbon estimation, deduplication, lifecycle policy prompts, and efficiency heuristics.
+- [03_EU_AI_Act.ipynb](03_EU_AI_Act.ipynb) : risk ladder, high-risk checklist, scenario classification, and logging patterns for traceability.
 
 ## Set up your Environment
 
